@@ -31,19 +31,10 @@ Prerequisites
 
 Support
 -------
-
-- Sifis Symianakis: sifis.symianakis@gmail.com
-
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-play-location/issues
 
 Patches are encouraged, and may be submitted according to the instructions in
 CONTRIBUTING.md.
 
-License
--------
-
-Copyright Sifis Symianakis
-Copyright 2014 Google, Inc.
 
 
